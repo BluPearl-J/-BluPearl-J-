@@ -19,4 +19,4 @@ Java Spring Boot MySQL Role-Based Auth
 A utility that generates cryptographically secure authentication tokens with encryption and expiry validation.
 Java Cryptography Security                                                                         Currently
 
-🚀 Interning completed,NYSC completed,Looking for junior developer roles where I can contribute immediately and keep growing. open to remote work worldwide
+🚀 Interning completed,NYSC completed,Looking for junior developer roles where I can contribute immediately and keep growing. open to on-site or remote work worldwide
