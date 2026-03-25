@@ -20,3 +20,6 @@ A utility that generates cryptographically secure authentication tokens with enc
 Java Cryptography Security                                                                         Currently
 
 🚀 Interning completed,NYSC completed,Looking for junior developer roles where I can contribute immediately and keep growing. open to on-site or remote work worldwide
+
+
+"I don't need to know everything on day one. I need to be the kind of person who figures it out — and I am."
