@@ -1,4 +1,4 @@
-Hi, I'm Joy 
+Hi, I'm Joyce 
 Backend Developer | Java & Spring Boot | Python,Fast Api & Django | Building real APIs that solve real problems
 I'm a Computer Engineering graduate. interned at Semicolon  — one of Africa's most rigorous software development programs. I build backend systems: REST APIs, authentication flows, and database-driven applications. I care about clean code, ownership, and learning fast.
 
