@@ -4,17 +4,25 @@ I'm a Computer Engineering graduate. interned at Semicolon  — one of Africa's 
 
 🛠️ What I work with
 Languages: Java · JavaScript ·Typescript ·Python · C# · SQL
+
 Backend: Spring Boot · Node.js · REST APIs · JWT Authentication
+
 Databases: MySQL · MongoDB etc
+
 Tools: Git · Postman · Maven · IntelliJ IDEA · VS Code
+
 Currently learning: Golan · React · Docker 
+
 📦 Featured Projects
+
 🔐 Secure Authentication API
 full login/signup REST API with JWT token issuance and validation, built with Java and Spring Boot.
 Java Spring Boot MySQL JWT REST
 ✅ Task Management Backend
 CRUD API for task creation, editing, and deletion with role-based access control.
 Java Spring Boot MySQL Role-Based Auth
+
+
 🔑 Token Generator System
 A utility that generates cryptographically secure authentication tokens with encryption and expiry validation.
 Java Cryptography Security                                                                         Currently
