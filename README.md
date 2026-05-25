@@ -36,58 +36,6 @@ I'm a Computer Engineering graduate. interned at Semicolon  — one of Africa's 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-4B32C3?style=for-the-badge&logo=github&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 
 
-🛠️ Tech Stack :
-💻 Languages
-☕ JAVA
-🐍 PYTHON
-JS JAVASCRIPT
-TS TYPESCRIPT
-⬡ C#
-🗄 SQL
-🐹 GOLANG
-$ BASH
-🔙 Backend
-🍃 SPRING BOOT
-🟢 NODE.JS
-⚡ FASTAPI
-🎸 DJANGO
-🔗 REST APIS
-🔐 JWT
-🚂 EXPRESS.JS
-🎨 Frontend
-⚛️ REACT
-🟠 HTML5
-🔵 CSS3
-✨ JAVASCRIPT ES6+
-🅱 BOOTSTRAP
-🗄️ Databases
-🐬 MYSQL
-🍃 MONGODB
-🐘 POSTGRESQL
-🔬 Data Science & AI
-🐼 PANDAS
-🔢 NUMPY
-🤖 SCIKIT-LEARN
-📊 MATPLOTLIB
-🧠 OPENAI API
-🤖 CLAUDE API
-📊 POWER BI
-☁️ DevOps & Cloud
-☁️ AWS
-🐳 DOCKER
-⚙️ GITHUB ACTIONS
-☸️ KUBERNETES
-🏗 TERRAFORM
-🐧 LINUX
-🧰 Tools
-🔧 GIT
-🐙 GITHUB
-📮 POSTMAN
-🪶 MAVEN
-💡 INTELLIJ
-💙 VS CODE
-🤖 COPILOT
-✨ CURSOR AI
 📦 Featured Projects
 🔐 Secure Authentication API
 Full login/signup REST API with JWT — Java & Spring Boot
