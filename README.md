@@ -2,7 +2,7 @@ Hi, I'm Joyce
 
 Full-Stack Engineer | Data Scientist | DevOps Engineer| Java & Spring Boot | Python,Fast Api & Django | Node.js | Python | React | AWS | Docker  |
 | Building real APIs that solve real problems | Building systems that scale. 
-I'm a Computer Engineering graduate. interned at Semicolon  — one of Africa's most rigorous software development programs. I build backend systems: REST APIs, authentication flows, and database-driven applications. I care about clean code, ownership, and learning fast.
+I'm a Bachelors Computer Engineering graduate. interned at Semicolon  — one of Africa's most rigorous software development programs. I build backend systems: REST APIs, authentication flows, and database-driven applications. I care about clean code, ownership, and learning fast.
 
 
 ## 🛠️ Tech Stack
